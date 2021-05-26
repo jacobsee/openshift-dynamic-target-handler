@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This is an OpenShift target handler for a [Dynamic Target Registration Server](https://github.com/jacobsee/dynamic-target-registration-server). It is intended to run alongside a Prometheus instance, and will keep a directory of target files up-to-date with the most current OpenShift beacons.
+This is an OpenShift target handler for a [Dynamic Target Registration Server](https://github.com/jacobsee/dynamic-target-registration-server). It is intended to run alongside a Prometheus instance, and will keep a directory of target files (compatible with the [openshift-federation-proxy](https://github.com/jacobsee/openshift-federation-proxy)) up-to-date with the most current [OpenShift beacons](https://github.com/jacobsee/openshift-dynamic-target-beacon).
 
 ## How is it configured?
 
